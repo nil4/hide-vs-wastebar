@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideWasteBar", "src\HideWasteBar.csproj", "{67EC56A5-F1BE-4951-AE93-5E8E34394E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{68D3D467-E00E-48AD-A1C9-37389379F279}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		appveyor.yml = appveyor.yml
+		build.cmd = build.cmd
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67EC56A5-F1BE-4951-AE93-5E8E34394E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EC56A5-F1BE-4951-AE93-5E8E34394E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EC56A5-F1BE-4951-AE93-5E8E34394E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EC56A5-F1BE-4951-AE93-5E8E34394E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CD1CFF-E18F-4600-ABDC-E320C4F34C50}
+	EndGlobalSection
+EndGlobal
